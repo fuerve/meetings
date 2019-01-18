@@ -886,7 +886,7 @@
     "homepage": "https://www.linkedin.com/in/chrislun/"
   },
   "Brent Zundel": {
-    "alias": ["bzundel", "brent_zundel"],
+    "alias": ["bzundel", "brent_zundel", "brent"],
     "homepage": "https://www.linkedin.com/in/bzundel/"
   },
   "Tzviya Siegman": {
@@ -1120,9 +1120,5 @@
   "Vaughan Emery": {
     "alias": ["vaughanemery"],
     "homepage": "https://www.linkedin.com/in/vaughanemery/"
-  },
-  "Michael Herman": {
-    "alias": ["mwherman2000"],
-    "homepage": "https://twitter.com/mwherman2000"
   }
 }

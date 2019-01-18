@@ -1,6 +1,6 @@
 [2019-01-15T16:59:17.447Z]	<kimhd>	present+
 [2019-01-15T16:59:27.833Z]	<kimhd>	Agenda: https://lists.w3.org/Archives/Public/public-credentials/2019Jan/0053.html
-[2019-01-15T16:59:40.187Z]	<ChristopherA>	present+
+[2019-01-15T16:59:40.187Z]	<ChristopherA>	present+ Christopher_Allen
 [2019-01-15T17:00:29.990Z]	<kimhd>	Agenda: https://lists.w3.org/Archives/Public/public-credentials/2019Jan/0053.html
 [2019-01-15T17:00:36.266Z]	<lparker>	present+
 [2019-01-15T17:00:41.160Z]	<rhiaro>	present+
@@ -25,9 +25,9 @@
 [2019-01-15T17:06:19.150Z]	<manu>	scribe: lparker
 [2019-01-15T17:06:27.246Z]	<manu>	Topic: Introductions
 [2019-01-15T17:07:05.934Z]	<kimhd>	that was Philipp Schmidt
-[2019-01-15T17:07:46.501Z]	<lparker>	Michael Herman: Interested in representing business documents.  Trying to clarify draft DID spec.
+[2019-01-15T17:07:46.501Z]	<lparker>	mwherman2000: Interested in representing business documents.  Trying to clarify draft DID spec.
 [2019-01-15T17:08:20.757Z]	<mwherman2000>	help
-[2019-01-15T17:08:49.258Z]	<lparker>	Brent Zundel: Evernym, crypto-engineering, ..., currently moving forward with credentials working group with Sovrin and Evernym
+[2019-01-15T17:08:49.258Z]	<lparker>	brent: Evernym, crypto-engineering, ..., currently moving forward with credentials working group with Sovrin and Evernym
 [2019-01-15T17:08:50.432Z]	<mwherman2000>	Hi manu, I'm not too proficient with IRC
 [2019-01-15T17:09:01.935Z]	<kimhd>	Topic: Announcements & Reminders
 [2019-01-15T17:09:16.897Z]	<JoeAndrieu>	http://rwot8.eventbrite.com
@@ -53,7 +53,7 @@
 [2019-01-15T17:13:10.672Z]	<mwherman2000>	Who is talking currently?
 [2019-01-15T17:13:17.653Z]	<kimhd>	that is Dave Longley
 [2019-01-15T17:13:58.994Z]	<lparker>	dlongley: Tightening up implementations of LD proof and DIDs, taking into consideration community input around terminology.  Email sent to mailing list with terminology specifics.  Effectively, a number of terms used in the community and into proofs and DID documents, such as cryptographic suites, creator and owner, are debatable.  Considering changing because they cause confusion.  Given some alternative names for terminology, taking into account what people
-[2019-01-15T17:13:59.149Z]	<lparker>	have been discussing.  Some issues in the tracker for some of these.  Main issue is stopping the use of 'owner', changing to 'controller'.
+[2019-01-15T17:13:59.149Z]	<lparker>	... have been discussing.  Some issues in the tracker for some of these.  Main issue is stopping the use of 'owner', changing to 'controller'.
 [2019-01-15T17:14:07.394Z]	<jarlath>	FYI - currently having issues connection to conference phone line, anyone else?
 [2019-01-15T17:14:29.869Z]	<manu>	voip: number?
 [2019-01-15T17:14:38.530Z]	<lparker>	... While working on changes, adopted 'controller' instead of 'owner', interested in getting that into the spec.  Also talking about changing 'cryptographic suites'.  Existing term of art that makes people think of something else.
@@ -120,7 +120,7 @@
 [2019-01-15T17:30:36.656Z]	<lparker>	kimhd: Two aspects: one, talk about new process; next, overall process is in above link.  Welcome comments.
 [2019-01-15T17:30:56.157Z]	<lparker>	... Some uncertainties in close work item and other aspects of document, but confident of new work item process, which we'll talk about next.  Focus on pushing through today.
 [2019-01-15T17:30:58.771Z]	<kimhd>	q?
-[2019-01-15T17:31:07.981Z]	<kimhd>	Topic: New Work Items
+[2019-01-15T17:31:07.981Z]	<kimhd>	Topic:	New Work Items
 [2019-01-15T17:31:32.267Z]	<lparker>	kimhd: Walk through new work items process.  Then start kickoff process work item topics that are ready.
 [2019-01-15T17:31:36.847Z]	<mwherman2000>	FYI: Link to the current version of the INDY ARM: https://hyperonomy.com/2019/01/13/hyperledger-indy-sovrin-comprehensive-architecture-reference-model-arm/
 [2019-01-15T17:31:54.614Z]	<lparker>	... Then, talk about two that we mentioned last meeting: CCG survey; social identity as a potential work item.
